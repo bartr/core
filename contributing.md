@@ -11,7 +11,7 @@ Quality over quantity. One well-documented experiment is worth more than five sk
 ## What a Good Experiment Looks Like
 
 - A greenfield or near-greenfield project (existing codebases welcome — see the note on legacy work below)
-- At least 5 intentional sessions logged using the [session log template](methodology/session-log-template.md)
+- At least 5 intentional sessions logged using the [session log template](experiments/session-log-template.md)
 - A summary that answers: what did you build, how did sessions map to the work, what surprised you, what would you do differently
 - A pointer to the repo or relevant artifacts (public or summarized if internal)
 

@@ -1,6 +1,6 @@
-# Sessions, Not Stories — The Core Model
+# Sessions, Not Stories — The Session Primitive
 
-> The methodology, in long form. Read the [README](../README.md) for the pitch.
+> The engineering chapter of [context-first](../README.md), in long form. Sessions are the unit of attention engineers plan, build, and ship inside.
 
 ## The Shift in Primitive
 
@@ -89,7 +89,7 @@ That paragraph is the compounding mechanism. Without it, each session starts col
 **Across sessions — the meta layer.**
 Keep a session log. After each session, one line: goal, outcome, drift (yes/no), close ritual complete (yes/no). By session 5 you have enough data to see your own patterns — where you drift, where framing was weak, where the close ritual got skipped. That is the feedback loop that makes it intentional rather than accidental.
 
-See [session-log-template.md](session-log-template.md) for a fillable template.
+See [session-log-template.md](../experiments/session-log-template.md) for a fillable template.
 
 ## Connection to AI-Native Engineering
 

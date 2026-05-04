@@ -40,12 +40,12 @@ That is not a smaller story. It is a different primitive — one that matches ho
 
 ```
 methodology/
-  sessions-not-stories.md      — the core model
+  sessions-not-stories.md      — the session primitive (engineering chapter)
   ceremonies-as-sessions.md    — remapping standups, retros, planning, demos
   ai-native-for-business.md    — the PM and stakeholder angle
-  session-log-template.md      — run your own experiment
 
 experiments/
+  session-log-template.md      — run your own experiment
   cllm/                        — the first experiment (bartr/vllm)
     summary.md                 — what was built, how sessions mapped
     session-log.md             — 10-session intentional practice log
@@ -85,7 +85,7 @@ If you are running AI-native engineering and want to contribute an experiment, s
 
 ## Related Work
 
-Sessions-not-stories did not emerge from a vacuum. These are the bodies of work that overlap, inform, or inspired it — and where it parts ways with each.
+Context-first did not emerge from a vacuum. These are the bodies of work that overlap, inform, or inspired it — and where it parts ways with each.
 
 ### Shape Up — Basecamp / 37signals
 
